@@ -1,0 +1,5 @@
+O(n) - linear execution time is when the maximum number of attempts matches the size of the list.
+O(n2) - slow sorting algorithms (selection sorting)
+O(n!) - very slow algorithms (factorial)
+O(log n) - Binary search performs in logarithmic time. log 2 (128) = 7
+O(n * log n) - efficient sorting algorithms (quick sort)
